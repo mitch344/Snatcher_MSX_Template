@@ -1,6 +1,7 @@
 # Snatcher English Translation Setup (MSX via OpenMSX on Windows x64)
 
 This template provides a structured setup for installing the English translation of *Snatcher* on MSX using OpenMSX on Windows x64.
+It was made for easy setup and for preservation to allow more people to access the oringal game with fast loading and optimal sound setup.
 
 ## Important Notes
 - **No binaries, ROMs, or disk images are included**—only placeholders are provided.
