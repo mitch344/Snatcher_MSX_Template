@@ -27,9 +27,9 @@ This template provides a structured setup for installing the English translation
 3. Navigate to the `Documents` folder in the template and replace `SnatcherHDD.dsk` with the actual disk image (a placeholder is provided).
    - Check the `README` inside for additional details.
 
-### 3. Copy Files to OpenMSX
+### 3. Copy & Replace Files from Template to OpenMSX
 1. Copy the `Documents/openMSX` folder from the template into your existing `Documents/openMSX` folder (overwrite if necessary).
-2. Copy the contents of `openmsx-XX.X-windows-vc-x64-bin` from the template into the extracted OpenMSX folder.
+2. Copy the contents of `openmsx-XX.X-windows-vc-x64-bin` from the template into the extracted `openmsx-XX.X-windows-vc-x64-bin` folder wherevere you unzipped earlier.
 
 ### 4. Launch the Game
 - `openmsx.exe -machine Panasonic_FS-A1GT -ext SunriseIDE_Nextor -ext scc+ -diska Snatcher_Saves.dsk -command "set fullscreen on"`
