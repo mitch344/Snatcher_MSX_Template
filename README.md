@@ -34,10 +34,6 @@ It was made for easy setup and for preservation to allow more people to access t
 
 ### 4. Launch the Game
 - `openmsx.exe -machine Panasonic_FS-A1GT -ext SunriseIDE_Nextor -ext scc+ -diska Snatcher_Saves.dsk -command "set fullscreen on"`
-
-### 5. Enjoy!
-Once everything is in place, launch OpenMSX and enjoy playing *Snatcher*!
-
 ---
 
 **Disclaimer:** This guide does not provide copyrighted files. Ensure you obtain them legally.
